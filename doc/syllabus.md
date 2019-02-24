@@ -63,7 +63,7 @@ students can implement the real ULSS, and take the experience of industrial flow
 	| 服务器            |  数量   |
 	|:-----------------|:-------:|
 	| web前端          |   1    |
-	| 生产服务器        |  1-2   |
+	| 开发服务器        |  1-2   |
 	| 数据库服务器      |  2     |
 	| 应用服务器(需GPU) |  2     |
 	| 存储服务器        |  1     |
